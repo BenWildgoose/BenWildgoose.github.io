@@ -3,13 +3,13 @@ body {
     font-family: 'Arial', sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f0f0f0;
+    background-color: #4CAF50; /* Green base color */
+    color: #fff;
 }
 
 /* Header Styles */
 header {
-    background-color: #3498db;
-    color: #fff;
+    background-color: #388e3c; /* Slightly darker green for the header */
     text-align: center;
     padding: 1em;
 }
@@ -20,7 +20,7 @@ h1 {
 
 /* Navigation Styles */
 nav {
-    background-color: #2980b9;
+    background-color: #2e7d32; /* Slightly darker green for the navigation */
     text-align: center;
     padding: 1em;
 }
@@ -40,6 +40,7 @@ nav a {
     background-color: #fff;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
     border-radius: 10px;
+    color: #000; /* Text color inside the container */
 }
 
 /* Section Styles */
@@ -56,19 +57,19 @@ section {
 
 /* About Section */
 #about {
-    background-color: #e74c3c;
+    background-color: #43a047; /* Dark green for the About section */
     color: #fff;
 }
 
 /* Portfolio Section */
 #portfolio {
-    background-color: #27ae60;
+    background-color: #4CAF50; /* Base green for the Portfolio section */
     color: #fff;
 }
 
 /* Contact Section */
 #contact {
-    background-color: #f39c12;
+    background-color: #388e3c; /* Slightly darker green for the Contact section */
     color: #fff;
 }
 
