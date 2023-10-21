@@ -1,0 +1,75 @@
+/* Global Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+
+/* Header Styles */
+header {
+    background-color: #3498db;
+    color: #fff;
+    text-align: center;
+    padding: 1em;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+/* Navigation Styles */
+nav {
+    background-color: #2980b9;
+    text-align: center;
+    padding: 1em;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 1em;
+    font-weight: bold;
+}
+
+/* Content Container Styles */
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2em;
+    background-color: #fff;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
+/* Section Styles */
+section {
+    margin-bottom: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    background-color: #fff;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+}
+
+/* Add more specific styles for different sections or elements as needed */
+
+/* About Section */
+#about {
+    background-color: #e74c3c;
+    color: #fff;
+}
+
+/* Portfolio Section */
+#portfolio {
+    background-color: #27ae60;
+    color: #fff;
+}
+
+/* Contact Section */
+#contact {
+    background-color: #f39c12;
+    color: #fff;
+}
+
+/* Customize additional styles for your specific content and elements */
